@@ -1,11 +1,13 @@
 Mandelbrot
 ===========
 
-Mandelbrot fractal visualization 
+Mandelbrot fractal visualization
 
-Playable at
+Live at
 
 http://koti.kapsi.fi/~sklappal/Mandelbrot/
+
+Note: Requires a WebGL -enabled browser.
 
 Instructions
 ============
